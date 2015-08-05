@@ -4,7 +4,7 @@ Plugin.video.aseantv
 
 An XBMC/Kodi Addon for Asean TV
 
-ASEAN!TV was first released on 2015 Aug 31 - primarily for ourself to catch up on local Asean live tv shows. Right now we only provide live tv stream from Malaysia, Singapore, Indonesia Thailand, Vietnam, Cambodia and Philippines. Other Asean country will come soon.
+ASEAN!TV was first released on 2015 Aug 31 - primarily for ourself to catch up on local Asean country live tv shows. Currently we only provide live tv show from Malaysia, Singapore, Indonesia Thailand, Vietnam, Cambodia and Philippines. Other Asean country will come soon.
 
 Indiecrew, MalayRevolution Network
 
