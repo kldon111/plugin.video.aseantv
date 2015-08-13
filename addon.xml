@@ -13,7 +13,7 @@
   
   <extension point="xbmc.addon.metadata">  
   <summary lang="en">Asean Live TV Video Add-on</summary>
-    <description lang="en">Putting together Asean live streams TV channels. List of channels from Malaysia, Singapore, Indonesia, Thailand, Myanmar, Laos, Brunei, Philippines, Vietnam and Cambodia.
+    <description lang="en">Putting together Asean live streams TV channels. List of tv channels from Malaysia, Singapore, Indonesia, Thailand, Myanmar, Laos, Brunei, Philippines, Vietnam and Cambodia.
 	</description>
     <platform>all</platform>
 	<language>en</language>
