@@ -436,10 +436,28 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>ONEHD TV</title>
+<link>rtmp://122.155.206.56:1935/onehdlive</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_onetv_zpsmbraxf2x.png</thumbnail>
 </item>
+
+<item>
+<title>AMARIN TV</title>
+<link>http://112.121.152.34:80/stream/5195e80fe1ed0/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_amarintv_zpsw2ikvvp9.png</thumbnail>
+</item>
+
+<item>
+<title>PPTV</title>
+<link>http://pptv.cdn.byteark.com/live/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_pptv_zpsiqptxluh.png</thumbnail>
+</item>
+
+<item>
+<title>TRUE4U TV</title>
+<link>http://setlivestream07.truelife.com:1935/live/smil:dtv_ch24_smil.smil/playlist.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_true4utv_zpsgbudj3vr.png</thumbnail>
+</item> 
 </items>
 
 </channel>
