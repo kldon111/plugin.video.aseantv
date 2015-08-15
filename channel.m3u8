@@ -171,6 +171,33 @@ http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png" group-title="INDONESIA",BERITA SATU
 http://edge.nim.mivo.tv/kqcsmbqna6yg/beritasatu_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ahsantv_zpspofotaos.png" group-title="INDONESIA",AHSAN TV
+http://202.182.56.21:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png" group-title="INDONESIA",SURAU TV
+http://128.199.130.195:1935/surautv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png" group-title="INDONESIA",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_bunayyatv_zpsouc4qh1i.png" group-title="INDONESIA",BUNAYYA TV
+http://wowza60.indostreamserver.com:1935/bunayyatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png" group-title="INDONESIA",TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_initv_zpslrigejxj.png" group-title="INDONESIA",INI TV
+http://streaming.initv.net:1935/live/_definst_/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_inspiratv_zps4g1thpo0.png" group-title="INDONESIA",INSPIRA TV
+http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_hangtv_zpsqnqygugs.png" group-title="INDONESIA",HANG TV
+http://128.199.96.198:1935/live/hangtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daqutv_zpsuhpgvv2w.png" group-title="INDONESIA",DAQU TV
+rtmp://stream.pencerahan.tv/live/daqutv
+
 #EXTINF:-1, [COLOR white] = THAILAND CHANNELS = [/COLOR]
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_chalermkrung_zpsgszzuqso.png" group-title="THAILAND",CHALERM KRUNG
@@ -208,6 +235,18 @@ rtmp://mediaxi.mcot.net/live/tcr1_ch2_800 swfVfy=1 live=1
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_sabaideetv_zpsxcfcifkj.png" group-title="THAILAND",SABAIDEE TV
 rtsp://202.142.207.150:1935/live/livesabaidee1
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_onetv_zpsmbraxf2x.png" group-title="THAILAND",ONEHD TV
+rtmp://122.155.206.56:1935/onehdlive
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_amarintv_zpsw2ikvvp9.png" group-title="THAILAND",AMARIN TV
+http://112.121.152.34:80/stream/5195e80fe1ed0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_pptv_zpsiqptxluh.png" group-title="THAILAND",PPTV
+http://pptv.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_true4utv_zpsgbudj3vr.png" group-title="THAILAND",TRUE4U TV
+http://setlivestream07.truelife.com:1935/live/smil:dtv_ch24_smil.smil/playlist.m3u8
 
 #EXTINF:-1, [COLOR white] = VIETNAM CHANNELS = [/COLOR]
 
@@ -273,14 +312,47 @@ rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream
 
 #EXTINF:-1, [COLOR white] = CAMBODIA CHANNELS = [/COLOR]
 
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tv3_zpsq3dzk04y.png" group-title="CAMBODIA",TV3
+http://svr-wow-live.khmerlive.tv/live/ngrp:tv3.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tv5_zpstygjhfho.png" group-title="CAMBODIA",TV5
+mms://203.176.130.123/tv5_480k?8eae0c54-569c-429f-ba53-2a8d8a79405f
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tv9_zpsgzlc52ef.png" group-title="CAMBODIA",TV9
+rtmp://203.176.130.118:8989/live/?121612c8-ee8c-4d98-9b97-decd29027721/ctv9_480k.stream
+
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tvk_zpsm4yyggbr.png" group-title="CAMBODIA",TVK TV
-http://live.khmer.be:1935/live/TVK/hasbahca.m3u8
+http://svr-wow-live.khmerlive.tv/live/ngrp:tvk.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_btv_zpstorr9hnk.png" group-title="CAMBODIA",BAYON NEWS
-http://live.khmer.be:1935/live/BayonNews/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_btv_zpstorr9hnk.png" group-title="CAMBODIA",BAYON BTV NEWS
+http://svr-wow-live.khmerlive.tv/live/ngrp:bayonnews.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_hangmeastv_zpsrnqyqg6n.png" group-title="CAMBODIA",HANG MEAS
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_bayontv_zpsbh4x4qtt.png" group-title="CAMBODIA",BAYON TV
+http://svr-wow-live.khmerlive.tv/live/ngrp:bayon.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_hangmeastv_zpsrnqyqg6n.png" group-title="CAMBODIA",HANG MEAS TV
 rtmp://111.92.240.134:1935/live/livestream
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_rasmeyhangmeastv_zpsrtbg0dq8.png" group-title="CAMBODIA",RASMEY HANG MEAS TV
+rtmp://111.92.240.134:80/live/livestream
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_etv_zpsheblhpvk.png" group-title="CAMBODIA",ETV
+rtmp://203.176.130.118:8989/live/?fd8609cc-9923-45e2-8301-9c0db2610cba/etv_480k.stream
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_seatv_zpsbjrvhvdb.png" group-title="CAMBODIA",SEA TV
+rtmp://203.176.137.164/rtplive/myStream
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_ctn_zpsdz5kfnhb.png" group-title="CAMBODIA",CTN
+http://119.82.251.230/live/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_mytv_zpsfblvslqd.png" group-title="CAMBODIA",MYTV
+http://119.82.251.230/live/smil:channel2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_cnc_zpsc57txxpv.png" group-title="CAMBODIA",CNC TV
+http://119.82.251.230/live/smil:channel3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_apsaratv_zpstyiralkw.png" group-title="CAMBODIA",APSARA TV
+rtmp://liveplay3.malimarcdn.com/khliveedge00/apsara.stream
 
 #EXTINF:-1, [COLOR white] = PHILIPPINES CHANNELS = [/COLOR]
 
@@ -333,9 +405,15 @@ rtsp://212-123.livestream.com:8080/livestreamiphone/7228455_3875913_5d286089_1_4
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mitv_zps4xrjw2p0.png" group-title="MYANMAR",MITV
 rtsp://212-123.livestream.com:8080/livestreamiphone/7063221_2739096_177d6cd4_1_280@177138
 
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_maharbawditv_zpstmcmjvpd.png" group-title="MYANMAR",MAHAR BAWDI TV
+rtsp://50.7.230.90:1935/liveedge/channel3
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_hluttawtv_zpsart2zwjg.png" group-title="MYANMAR",HLUT TAW TV
+rtmp://203.81.81.230/live/HTT
+
 #EXTINF:-1, [COLOR white] = BRUNEI CHANNELS = [/COLOR]
 
-#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtb4_zpsbuhilh5j.png" group-title="BRUNEI",RTV 4
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtb4_zps4qu7d2hi.png" group-title="BRUNEI",RTV 4
 mms://202.160.15.85/stream-02-300
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtbnews_zpsddt01hsc.png" group-title="BRUNEI",RTB NEWS
