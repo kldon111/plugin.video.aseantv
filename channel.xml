@@ -1,5 +1,7 @@
 <channels>
 
+<info>New channel added from Laos. Thanks!</info>
+
 <channel>
 <name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Malaysia-Flag-icon_zpsogib7mlv.png</thumbnail>
@@ -821,7 +823,7 @@
 <items>
 <item>
 <title>TV LAO</title>
-<link>http://live10.netdesignhost.com:1935/tvlaolive/tvlaolive/playlist.m3u8</link>
+<link>http://live10.netdesignhost.com/tvlaolive/tvlaolive/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/LS_tvlao_zpsipbuef5y.png</thumbnail>
 </item>
 
@@ -829,6 +831,12 @@
 <title>LAO STAR</title>
 <link>rtsp://live4.seesantv.com:1935/as2/chlaostar1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/LS_laostartv_zpscp8wcqhx.png</thumbnail>
+</item>
+
+<item>
+<title>MV LAO TV</title>
+<link>http://103.40.138.89:1935/live/mvlao/playlist.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 </items>
 
