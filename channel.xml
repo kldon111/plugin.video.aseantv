@@ -1,6 +1,6 @@
 <channels>
 
-<info>New channel added in Laos. Thanks!</info>
+<info>New channel added in Laos and Philippines. Thanks!</info>
 
 <channel>
 <name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR]</name>
@@ -754,13 +754,13 @@
 <items>
 <item>
 <title>AKSYON TV</title>
-<link>http://stream3.news5.ph/aksyon/aksyon1.stream/playlist.m3u8</link>
+<link>http://stream3.news5.ph/voyageraksyon/aksyon/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_aksyontv_zps2kjilc0s.png</thumbnail>
 </item>
 
 <item>
 <title>TV 5</title>
-<link>http://edge.pldt.swiftserve.com/live/mediascape/tv5/playlist.m3u8</link>
+<link>http://stream3.news5.ph/aksyon/aksyon1.stream/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_tv5_zps6qlxk9ej.png</thumbnail>
 </item>
 
