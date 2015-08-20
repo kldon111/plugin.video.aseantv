@@ -1,7 +1,5 @@
 <channels>
 
-<info>New channel added in Laos and Philippines. Thanks!</info>
-
 <channel>
 <name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Malaysia-Flag-icon_zpsogib7mlv.png</thumbnail>
@@ -862,7 +860,7 @@
 
 <item>
 <title>MNTV</title>
-<link>rtsp://212-123.livestream.com:8080/livestreamiphone/7228455_3875913_5d286089_1_446@304368</link>
+<link>rtsp://212-125.livestream.com:8080/livestreamiphone/7228455_3875913_d3e8d0fd_1_446@304368</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mntv_zpsj9mwi3mk.png</thumbnail>
 </item>
 
@@ -882,6 +880,12 @@
 <title>HLUT TAW TV</title>
 <link>rtmp://203.81.81.230/live/HTT</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_hluttawtv_zpsart2zwjg.png</thumbnail>
+</item>
+
+<item>
+<title>UP TO DATE TV</title>
+<link>rtsp://212-123.livestream.com:8080/livestreamiphone/7228455_3875178_c8f506f6_1_446@304368</link>
+<thumbnail></thumbnail>
 </item>
 </items>
 
@@ -913,13 +917,13 @@
 
 <item>
 <title>RTB 4</title>
-<link>mms://202.160.15.85/stream-02-300</link>
+<link>mms://202.160.15.85/stream-03-512</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtb4_zps4qu7d2hi.png</thumbnail>
 </item>
 
 <item>
 <title>RTB 5</title>
-<link>mms://202.160.15.85/stream-03-512</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtb5_zpsryl6ecop.png</thumbnail>
 </item>
 
