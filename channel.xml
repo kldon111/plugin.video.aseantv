@@ -34,7 +34,7 @@
 
 <item>
 <title>8TV</title>
-<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8<</link>
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_8tv_zpsvhm1dgc8.png</thumbnail>
 </item>
 
@@ -1155,6 +1155,24 @@
 <title>MV LAO TV</title>
 <link>http://103.40.138.89:1935/live/mvlao/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/LS_mvlaotv_zpsshtrxcuc.png</thumbnail>
+</item>
+
+<item>
+<title>LAO PSTV</title>
+<link>rtmp://liveplay3.malimarcdn.com/liveedge/ playpath=laopstv.stream swfUrl=http://aseaniptv.com/media/jwadvanced/player/6/jwplayer.flash.swf pageUrl=http://aseaniptv.com/laotv live=1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LAO NATIONAL TV</title>
+<link>rtmp://liveplay3.malimarcdn.com/liveedge/ playpath=lntv3.stream swfUrl=http://aseaniptv.com/media/jwadvanced/player/6/jwplayer.flash.swf pageUrl=http://aseaniptv.com/laotv live=1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SABAIDEE LAO TV</title>
+<link>rtmp://liveplay3.malimarcdn.com/ftaedge/ playpath=laous.sdp swfUrl=http://www.laoscities.com/sabaideelaotv/wp-content/themes/shopperpress/thumbs/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.sabaideelaotv.com/ swfVfy=true live=true</link>
+<thumbnail></thumbnail>
 </item>
 </items>
 
