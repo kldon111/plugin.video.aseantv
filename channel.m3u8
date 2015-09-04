@@ -9,7 +9,7 @@ http://d2n93xl5jpu7ax.cloudfront.net:80/live/mp4:rtm-ch001_international.stream_
 http://d2n93xl5jpu7ax.cloudfront.net:80/live/mp4:rtm-ch003_international.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png" group-title="MALAYSIA",TV3
-http://www.layarku.tv/media/tv3v6.m3u8
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ntv7_zpsmslc5gwf.png" group-title="MALAYSIA",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
@@ -18,7 +18,7 @@ http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv9_zpsvy6n5ypz.png" group-title="MALAYSIA",TV9
-http://www.layarku.tv/media/tv9v6.m3u8
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png" group-title="MALAYSIA",AL-HIJRAH
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8
