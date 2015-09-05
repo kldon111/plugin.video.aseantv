@@ -517,7 +517,7 @@
 
 <item>
 <title>ONEHD TV</title>
-<link>rtmp://122.155.206.56:1935/onehdlive</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_onetv_zpsmbraxf2x.png</thumbnail>
 </item>
 
@@ -577,7 +577,7 @@
 
 <item>
 <title>BLUESKY CHANNEL</title>
-<link>rtmp://203.150.228.24:1935/bluesky_live</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_blueskychannel_zpsuk4f3ks7.png</thumbnail>
 </item> 
 
@@ -979,19 +979,19 @@
 <items>
 <item>
 <title>TV3</title>
-<link>http://svr-wow-live.khmerlive.tv/live/ngrp:tv3.stream_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tv3_zpsq3dzk04y.png</thumbnail>
 </item>
 
 <item>
 <title>TV5</title>
-<link>mms://203.176.130.123/tv5_480k?8eae0c54-569c-429f-ba53-2a8d8a79405f</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tv5_zpstygjhfho.png</thumbnail>
 </item>
 
 <item>
 <title>TV9</title>
-<link>rtmp://203.176.130.118:8989/live/?121612c8-ee8c-4d98-9b97-decd29027721/ctv9_480k.stream</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_tv9_zpsgzlc52ef.png</thumbnail>
 </item>
 
@@ -1027,7 +1027,7 @@
 
 <item>
 <title>ETV</title>
-<link>rtmp://203.176.130.118:8989/live/?fd8609cc-9923-45e2-8301-9c0db2610cba/etv_480k.stream</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/CM_etv_zpsheblhpvk.png</thumbnail>
 </item>
 
@@ -1165,7 +1165,7 @@
 
 <item>
 <title>LAO STAR</title>
-<link>rtsp://live4.seesantv.com:1935/as2/chlaostar1</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/LS_laostartv_zpscp8wcqhx.png</thumbnail>
 </item>
 
@@ -1177,19 +1177,19 @@
 
 <item>
 <title>LAO PSTV</title>
-<link>rtmp://liveplay3.malimarcdn.com/liveedge/ playpath=laopstv.stream swfUrl=http://aseaniptv.com/media/jwadvanced/player/6/jwplayer.flash.swf pageUrl=http://aseaniptv.com/laotv live=1</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>LAO NATIONAL TV</title>
-<link>rtmp://liveplay3.malimarcdn.com/liveedge/ playpath=lntv3.stream swfUrl=http://aseaniptv.com/media/jwadvanced/player/6/jwplayer.flash.swf pageUrl=http://aseaniptv.com/laotv live=1</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>SABAIDEE LAO TV</title>
-<link>rtmp://liveplay3.malimarcdn.com/ftaedge/ playpath=laous.sdp swfUrl=http://www.laoscities.com/sabaideelaotv/wp-content/themes/shopperpress/thumbs/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.sabaideelaotv.com/ swfVfy=true live=true</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 </items>
@@ -1204,43 +1204,43 @@
 <items>
 <item>
 <title>MRTV-4</title>
-<link>rtsp://50.7.157.18:1935/liveedge/channel1</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mrtv4_zpsshgdzr2r.png</thumbnail>
 </item>
 
 <item>
 <title>CHANNEL 7</title>
-<link>rtsp://50.7.157.18:1935/liveedge/channel2</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_channel7_zpsqnraprlf.png</thumbnail>
 </item>
 
 <item>
 <title>MNTV</title>
-<link>rtsp://212-125.livestream.com:8080/livestreamiphone/7228455_3875913_d3e8d0fd_1_446@304368</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mntv_zpsj9mwi3mk.png</thumbnail>
 </item>
 
 <item>
 <title>MITV</title>
-<link>rtsp://212-123.livestream.com:8080/livestreamiphone/7063221_2739096_177d6cd4_1_280@177138</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mitv_zps4xrjw2p0.png</thumbnail>
 </item>
 
 <item>
 <title>MAHAR BAWDI TV</title>
-<link>rtsp://50.7.230.90:1935/liveedge/channel3</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_maharbawditv_zpstmcmjvpd.png</thumbnail>
 </item>
 
 <item>
 <title>HLUT TAW TV</title>
-<link>rtmp://203.81.81.230/live/HTT</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_hluttawtv_zpsart2zwjg.png</thumbnail>
 </item>
 
 <item>
 <title>UP TO DATE TV</title>
-<link>rtsp://212-123.livestream.com:8080/livestreamiphone/7228455_3875178_c8f506f6_1_446@304368</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_uptodatetv_zpsyn9eshgw.png</thumbnail>
 </item>
 </items>
@@ -1285,7 +1285,7 @@
 
 <item>
 <title>RTB NEWS</title>
-<link>http://202.93.220.194:8081/stream.flv</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtbnews_zpsddt01hsc.png</thumbnail>
 </item>
 </items>
