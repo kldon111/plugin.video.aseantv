@@ -415,6 +415,24 @@
 <link>rtmp://stream.pencerahan.tv/live/daqutv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daqutv_zpsuhpgvv2w.png</thumbnail>
 </item>
+
+<item>
+<title>ZAKAT TV</title>
+<link>rtmp://118.91.130.57:1935/live/zakattv</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_zakattv_zpsxu909r7z.png</thumbnail>
+</item>
+
+<item>
+<title>UMMAT TV</title>
+<link>https://www.youtube.com/embed/aXC6sSUkDZ4</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ummattv_zpszgq72y8w.png</thumbnail>
+</item>
+
+<item>
+<title>JEK TV</title>
+<link>rtmp://182.253.193.35:1935/live/myStream1</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jektv_zpsdlmiao7f.png</thumbnail>
+</item>
 </items>
 
 </channel>
