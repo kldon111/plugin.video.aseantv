@@ -160,205 +160,205 @@
 <items>
 <item>
 <title>TVRI 1</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/tvrinasional_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrinasional_zpsrpwt3w2f.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 2</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/tvrijakarta_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrijakarta_zps9idoi7ph.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 3</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/tvribudaya_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvribudaya_zps2xarzbez.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 4</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/tvriolahraga_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
 </item>
 
 <item>
 <title>TRANS 7</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/trans72_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_7_zpsn7frpupf.png</thumbnail>
 </item>
 
 <item>
 <title>TRANS TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/transtv2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_trans_tv_zpsef7hiuqo.png</thumbnail>
 </item>
 
 <item>
 <title>METRO TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/metrotv2_all/playlist.m3u8</link>
+<link>http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_metro_tv_zpsfy2zhqxw.png</thumbnail>
 </item>
 
 <item>
 <title>INDOSIAR</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/indosiar2_all/playlist.m3u8</link>
+<link>http://livestreaming.production.liputan6.static6.com/tv/indosiarstream300.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_indosiar_zpsnlwwccnu.png</thumbnail>
 </item>
 
 <item>
 <title>SCTV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/sctv2_all/playlist.m3u8</link>
+<link>http://livestreaming.production.liputan6.static6.com/tv/sctvstream300.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_sctv_zpsibjuh3i7.png</thumbnail>
 </item>
 
 <item>
 <title>RCTI</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/rcti2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rcti_zpspbf3nrr5.png</thumbnail>
 </item>
 
 <item>
 <title>ANTV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/antv2_all/playlist.m3u8</link>
+<link>http://202.129.216.27:1935/antv/antv1/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png</thumbnail>
 </item>
 
 <item>
 <title>GLOBAL TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/globaltv2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_global_tv_zpsqptddjo9.png</thumbnail>
 </item>
 
 <item>
 <title>RTV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/rajawalitv.stream_all/playlist.m3u8</link>
+<link>rtmp://203.153.97.35:1935/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rtv_zps7zwluxo5.png</thumbnail>
 </item>
 
 <item>
 <title>CTV NETWORK</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/cahayatv_all/playlist.m3u8</link>
+<link>http://103.23.201.170:1935/live/livestream/manifest.f4m</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ctv_zpsuthdtkdg.png</thumbnail>
 </item>
 
 <item>
 <title>MNCTV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/mnctv2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mnc_tv_zpshi58jhma.png</thumbnail>
 </item>
 
 <item>
 <title>ANTARA TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/antaratv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antaratv_zpslfe8wvho.png</thumbnail>
 </item>
 
 <item>
 <title>DAAI TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/daaitv2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daaitv_zpsa8jkixzp.png</thumbnail>
 </item>
 
 <item>
 <title>DAMAI TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/more1_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_damaitv_zpszelmqznj.png</thumbnail>
 </item>
 
 <item>
 <title>DMC TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/dmctv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_dmctv_zpszpox8rrh.png</thumbnail>
 </item>
 
 <item>
 <title>ELSHINTA TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/elshintatv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_elshintatv_zpswdybmaxs.png</thumbnail>
 </item>
 
 <item>
 <title>HAARI TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/more2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_haaritv_zpslftcnreb.png</thumbnail>
 </item>
 
 <item>
 <title>JAK TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/jaktv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jaktv_zpsarehs1yc.png</thumbnail>
 </item>
 
 <item>
 <title>JTV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/jawatv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_jtv_zpspcztjwpe.png</thumbnail>
 </item>
 
 <item>
 <title>LBS IN-DRAMA</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/lbsindrama_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbsindrama_zpshlkuj2w6.png</thumbnail>
 </item>
 
 <item>
 <title>LBS K-DRAMA</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/ldrama2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_lbskdrama_zpsee1focjf.png</thumbnail>
 </item>
 
 <item>
 <title>MIVO TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/mivotv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_mivotv_zpso5h9xwxy.png</thumbnail>
 </item>
 
 <item>
 <title>SPACETOON</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/spacetoon_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
 </item>
 
 <item>
 <title>SPACETOON 2</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/spacetoon2_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_spacetoon_zpsnekltnpt.png</thumbnail>
 </item>
 
 <item>
 <title>THE INDONESIA CHANNEL</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/theindonesiachannel_all/playlist.m3u8</link>
+<link>http://gcasialive-i.akamaihd.net/hls/live/218243/TIC-HLS-stream/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tictv_zpsglqai3sx.png</thumbnail>
 </item>
 
 <item>
 <title>U CHANNEL</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/uchannel_all/playlist.m3u8</link>
+<link>rtmp://119.235.249.58:1935/uchannel/</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_uchannel_zpsvgykqd8s.png</thumbnail>
 </item>
 
 <item>
 <title>TVONE</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/tvone2_all/playlist.m3u8</link>
+<link>http://202.129.216.27:1935/tvone/tvone1/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvone_zps2ntt5ox4.png</thumbnail>
 </item>
 
 <item>
 <title>KOMPAS TV</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_kompastv_zpspbla9f1l.png</thumbnail>
 </item>
 
 <item>
 <title>NET.</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/nettv_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_nettv_zpskioucxna.png</thumbnail>
 </item>
 
 <item>
 <title>BERITA SATU</title>
-<link>http://edge.nim.mivo.tv/kqcsmbqna6yg/beritasatu_all/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_beritasatutv_zpsdgoulgmq.png</thumbnail>
 </item>
 
