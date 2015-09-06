@@ -76,7 +76,7 @@
 
 <item>
 <title>ASTRO CERIA</title>
-<link>http://www.layarku.tv/media/ceria.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ceria_zpshfq6s9fy.png</thumbnail>
 </item>
 
@@ -145,7 +145,7 @@
 
 <item>
 <title>VASANTHAM</title>
-<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png</thumbnail>
 </item>
 </items>
@@ -232,13 +232,13 @@
 
 <item>
 <title>RTV</title>
-<link>rtmp://203.153.97.35:1935/live</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rtv_zps7zwluxo5.png</thumbnail>
 </item>
 
 <item>
 <title>CTV NETWORK</title>
-<link>http://103.23.201.170:1935/live/livestream/manifest.f4m</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ctv_zpsuthdtkdg.png</thumbnail>
 </item>
 
@@ -334,7 +334,7 @@
 
 <item>
 <title>U CHANNEL</title>
-<link>rtmp://119.235.249.58:1935/uchannel/</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_uchannel_zpsvgykqd8s.png</thumbnail>
 </item>
 
@@ -370,13 +370,13 @@
 
 <item>
 <title>SURAU TV</title>
-<link>http://128.199.130.195:1935/surautv/live/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
 </item>
 
 <item>
 <title>RODJA TV</title>
-<link>http://vids.rodja.tv:1935/live/rodja/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
 </item>
 
@@ -388,7 +388,7 @@
 
 <item>
 <title>TAHFIDZ TV</title>
-<link>rtmp://119.235.249.58:1935/tahfidztv/</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png</thumbnail>
 </item>
 
@@ -412,7 +412,7 @@
 
 <item>
 <title>DAQU TV</title>
-<link>rtmp://stream.pencerahan.tv/live/daqutv</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daqutv_zpsuhpgvv2w.png</thumbnail>
 </item>
 
@@ -424,7 +424,7 @@
 
 <item>
 <title>UMMAT TV</title>
-<link>https://www.youtube.com/embed/aXC6sSUkDZ4</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ummattv_zpszgq72y8w.png</thumbnail>
 </item>
 
@@ -529,13 +529,13 @@
 
 <item>
 <title>PPTV</title>
-<link>http://pptv.cdn.byteark.com/live/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_pptv_zpsiqptxluh.png</thumbnail>
 </item>
 
 <item>
 <title>TRUE4U TV</title>
-<link>http://setlivestream07.truelife.com:1935/live/smil:dtv_ch24_smil.smil/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_true4utv_zpsgbudj3vr.png</thumbnail>
 </item> 
 
@@ -601,13 +601,13 @@
 
 <item>
 <title>DR TV</title>
-<link>rtmp://202.57.162.52/drtv,drtv</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_drtv_zpsvs0pij0x.png</thumbnail>
 </item> 
 
 <item>
 <title>ETV</title>
-<link>rtmp://61.19.244.112:1935/live</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_etv_zpsrau0lvbi.png</thumbnail>
 </item> 
 
@@ -625,7 +625,7 @@
 
 <item>
 <title>FAT TV</title>
-<link>rtmp://live.netdesignhost.com/fat93live</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_fattv_zpsepclpmef.png</thumbnail>
 </item> 
 
@@ -643,7 +643,7 @@
 
 <item>
 <title>H PLUS CHANNEL</title>
-<link>http://202.129.206.189:1935/live/hplus/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_hpluschannel_zpsfcsypnea.png</thumbnail>
 </item> 
 
@@ -697,7 +697,7 @@
 
 <item>
 <title>NBT TV</title>
-<link>rtmp://112.121.129.124/live/</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_nbttv_zpst5tjx4yk.png</thumbnail>
 </item> 
 
@@ -721,7 +721,7 @@
 
 <item>
 <title>POLICE TV</title>
-<link>rtmp://live.netdesignhost.com/policetvlive</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_policetv_zpsvtyjcwco.png</thumbnail>
 </item> 
 
@@ -850,7 +850,7 @@
 
 <item>
 <title>NHAN DAN</title>
-<link>http://nhandantv.org.vn:1935/live/Stream1/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_nhandantv_zpsv2i05vbg.png</thumbnail>
 </item>
 
@@ -862,37 +862,37 @@
 
 <item>
 <title>FBNC</title>
-<link>http://www.youtube.com/embed/6RC2fRA_Crw</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_fbnc_zpsboywvr7d.png</thumbnail>
 </item>
 
 <item>
 <title>AN GIANG TV 1</title>
-<link>rtmp://113.161.212.25/live</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_angiangtv_zpstiuzmang.png</thumbnail>
 </item>
 
 <item>
 <title>AN GIANG TV 2</title>
-<link>rtmp://113.161.212.25/live2</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_angiangtv_zpstiuzmang.png</thumbnail>
 </item>
 
 <item>
 <title>BA RIA VUNG TAU TV</title>
-<link>rtmp://113.163.216.24:80/livepkgr</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_brttv_zps9jaojqnm.png</thumbnail>
 </item>
 
 <item>
 <title>BINH DUONG TV 1</title>
-<link>rtmp://202.43.109.147/live/</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_binhduongtv1_zpsi6gss0ad.png</thumbnail>
 </item>
 
 <item>
 <title>BINH DUONG TV 2</title>
-<link>rtmp://202.43.109.147/rtplive/</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_binhduongtv2_zpsoawcye84.png</thumbnail>
 </item>
 
@@ -916,25 +916,25 @@
 
 <item>
 <title>DONG NAI TV 1</title>
-<link>rtmp://123.29.75.131:1935/thdn/dn1.stream</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_dongnaitv1_zpssxzx8a0e.png</thumbnail>
 </item>
 
 <item>
 <title>DONG NAI TV 2</title>
-<link>rtmp://123.29.75.131:1935/thdn/dn2.stream</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_dongnaitv2_zpsal9pkj6t.png</thumbnail>
 </item>
 
 <item>
 <title>HAI PHONG TV</title>
-<link>rtmp://203.162.238.46/live/</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_haiphongtv_zpsd57q22el.png</thumbnail>
 </item>
 
 <item>
 <title>HUNG YEN TV</title>
-<link>rtmp://42.112.16.101:1935/live/HYTV</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_hungyentv_zpsuvsrncph.png</thumbnail>
 </item>
 
@@ -960,12 +960,6 @@
 <title>ITV</title>
 <link>rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/VT_itv_zpsjparsjir.png</thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
 </item>
 </items>
 
@@ -1072,7 +1066,7 @@
 <items>
 <item>
 <title>AKSYON TV</title>
-<link>http://stream3.news5.ph/voyageraksyon/aksyon/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_aksyontv_zps2kjilc0s.png</thumbnail>
 </item>
 
@@ -1084,13 +1078,13 @@
 
 <item>
 <title>NET 25</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/12831564/streams/live/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_net25_zpskrj8zr8j.png</thumbnail>
 </item>
 
 <item>
 <title>GMA 7</title>
-<link>http://live.streamup.com:1935/app/pinoy-tambayans-channel/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_gma7_zpsiriyzxpk.png</thumbnail>
 </item>
 
@@ -1102,13 +1096,13 @@
 
 <item>
 <title>ABS-CBN</title>
-<link>http://iwantvls-i.akamaihd.net/hls/live/206751/ABSCBN_Low/master.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_abscbn_zpsf6nddocp.png</thumbnail>
 </item>
 
 <item>
 <title>PEOPLE'S TV</title>
-<link>http://iphone-streaming.ustream.tv/ustreamVideo/9544987/streams/live/playlist.m3u8</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_peopletv_zpse6somh5p.png</thumbnail>
 </item>
 
