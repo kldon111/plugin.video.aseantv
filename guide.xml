@@ -1,5 +1,433 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.26 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV1">
+    <display-name lang="ms">TV1</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/tv1.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="ms">TV2</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/tv2.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="NTV7">
+    <display-name lang="en">NTV7</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="8TV">
+    <display-name lang="en">8TV</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="TV9">
+    <display-name lang="en">TV9</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="Al Hijrah">
+    <display-name lang="en">Al Hijrah</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="Bernama TV">
+    <display-name lang="en">Bernama TV</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="Astro Oasis">
+    <display-name lang="en">Astro Oasis</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="Astro Awani">
+    <display-name lang="en">Astro Awani</display-name>
+    <url>http://www.tm.com.my</url>
+  </channel>
+  <channel id="Channel 5">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Channel 8">
+    <display-name lang="en">Channel 8</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Channel U">
+    <display-name lang="en">Channel U</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="okto">
+    <display-name lang="en">okto</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Vasantham">
+    <display-name lang="en">Vasantham</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Suria">
+    <display-name lang="en">Suria</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <channel id="Channel NewsAsia">
+    <display-name lang="en">Channel NewsAsia</display-name>
+    <url>http://www.toggle.sg</url>
+  </channel>
+  <programme start="20150909000000 +0800" stop="20150909003000 +0800" channel="TV1">
+    <title lang="ms">Nasional 12</title>
+    <desc lang="ms">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/berita-nasional25.jpg" />
+  </programme>
+  <programme start="20150909003000 +0800" stop="20150909010000 +0800" channel="TV1">
+    <title lang="ms">13 Hari Semporna</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20150909010000 +0800" stop="20150909013000 +0800" channel="TV1">
+    <title lang="ms">Titik Sentuhan... Terus Bertindak</title>
+    <desc lang="ms">Memaparkan realiti masyarakat dengan menyampaikan aduan dan permasalahan yang dihadapi. Antara segmen menarik ialah Realiti atau Impian, Kami Prihatin dan Janji YB yang menyumbang kepada penyelesaian isu.(n)</desc>
+  </programme>
+  <programme start="20150909013000 +0800" stop="20150909020000 +0800" channel="TV1">
+    <title lang="ms">Selebriti &amp; Motor</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Majalah</category>
+  </programme>
+  <programme start="20150909020000 +0800" stop="20150909033000 +0800" channel="TV1">
+    <title lang="ms">Violet Sukasih</title>
+    <desc lang="ms">Sukasih diterima bekerja di gedung Sutera Mode. Sukasih hairan sedangkan dia tidak pernah menghantar apa-apa surat. Sukasih kemudiannya mendapat tahu bahawa semua itu ialah usaha Dahlia dan Irwan.(n)</desc>
+  </programme>
+  <programme start="20150909033000 +0800" stop="20150909053000 +0800" channel="TV1">
+    <title lang="ms">Telemovie : Tika Kau Tiada</title>
+    <desc lang="ms">Malam pernikahan Shima hanya dihadiri saudara-mara. Selesai majlis, Daniel mengheret bagasi keluar bilik. Mereka memohon restu ibu dan ayah, lalu kemudiannya mereka hilang dalam kegelapan malam.(n)</desc>
+    <category lang="ms">Majalah</category>
+  </programme>
+  <programme start="20150909053000 +0800" stop="20150909055000 +0800" channel="TV1">
+    <title lang="ms">Nur Raudah</title>
+    <desc lang="ms">Drama bersiri Melayu lakonan Arash Mohd, Keith Foo, Shah Iskandar, Redzuan Hashim, Syatilla Melvin, Aleeza Shadan dan ramai lagi.(n)</desc>
+    <category lang="ms">Majalah</category>
+  </programme>
+  <programme start="20150909055000 +0800" stop="20150909060000 +0800" channel="TV1">
+    <title lang="ms">Azan Subuh, Negaraku dan Al-Quran </title>
+    <desc lang="ms">Azan Subuh diikuti bacaan ayat-ayat suci al-Quran dan nyanyian lagu kebangsaan.(n)</desc>
+    <icon src="http://live.rtm.gov.my/epg/upload/azan 7.jpg" />
+  </programme>
+  <programme start="20150909060000 +0800" stop="20150909070000 +0800" channel="TV1">
+    <title lang="ms">Hadis 40</title>
+    <desc lang="ms">Huraian 40 Hadis bersama Ustaz Mohd. Zaidi Ramli daripada Jabatan Agama Islam Wilayah Persekutuan (JAWI).(n)</desc>
+    <category lang="ms">Keagamaan</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/fikrah4.jpg" />
+  </programme>
+  <programme start="20150909070000 +0800" stop="20150909073000 +0800" channel="TV1">
+    <title lang="ms">Nasional 7</title>
+    <desc lang="ms">Dapatkan berita mutakhir menerusi Berita Nasional setiap hari.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/nas7.jpg" />
+  </programme>
+  <programme start="20150909073000 +0800" stop="20150909093000 +0800" channel="TV1">
+    <title lang="ms">Selamat Pagi  Malaysia</title>
+    <desc lang="ms">Rancangan yang memaparkan segmen perbincangan bersama panel jemputan seperti Topik Semasa, Info Semasa, Doktor dan Anda, Pendidikan, Filem Kita dan Wanita.(n)</desc>
+    <icon src="http://live.rtm.gov.my/epg/upload/SPM 1.jpg" />
+  </programme>
+  <programme start="20150909093000 +0800" stop="20150909100000 +0800" channel="TV1">
+    <title lang="ms">Kak Odah Drebar</title>
+    <desc lang="ms">Puad Bulu Ayam berada di belakang belukar sambil memuji kehebatan Kak Odah. Kak Odah tidak suka pada Puad Bulu Ayam yang suka menghendapnya lalu memberikan satu penumbuk di muka Puad Bulu Ayam.(n)</desc>
+    <icon src="http://live.rtm.gov.my/epg/upload/logo-pack3.jpg" />
+  </programme>
+  <programme start="20150909100000 +0800" stop="20150909103000 +0800" channel="TV1">
+    <title lang="ms">Selera Etnik</title>
+    <desc lang="ms">Rancangan masakan yang bertumpu di 13 kawasan yang terpilih di seluruh Sabah, memaparkan sajian etnik dan sajian Malaysia dari Negeri di Bawah Bayu ini.(n)</desc>
+  </programme>
+  <programme start="20150909103000 +0800" stop="20150909110000 +0800" channel="TV1">
+    <title lang="ms">Khazanah Yang Hilang</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20150909110000 +0800" stop="20150909110500 +0800" channel="TV1">
+    <title lang="ms">Semasa 11</title>
+    <desc lang="ms">Saksikan Berita Semasa yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <category lang="ms">Berita</category>
+  </programme>
+  <programme start="20150909110500 +0800" stop="20150909113000 +0800" channel="TV1">
+    <title lang="ms">Jauhari Bangsa</title>
+    <desc lang="ms">Dokumentari berinformasi mengenai pelan pembangunan negara seperti Program Transformasi Kerajaan, Wawasan Negara, Wawasan 2020, Integriti, Wilayah Iskandar, Bantuan Rumah Rakyat dan sebagainya.(n)</desc>
+  </programme>
+  <programme start="20150909113000 +0800" stop="20150909120000 +0800" channel="TV1">
+    <title lang="ms">Feminin</title>
+    <desc lang="ms">Rancangan bual bicara yang bertujuan mengangkat dimensi kewanitaan, memberi ruang serta memperkasakan suara, citra wanita dan isu-isu kewanitaan.(n)</desc>
+  </programme>
+  <programme start="20150909120000 +0800" stop="20150909123000 +0800" channel="TV1">
+    <title lang="ms">Projek Pesona</title>
+    <desc lang="ms">Sebuah program realiti bertemakan pertandingan fesyen. Seramai 12 peserta akan berentap untuk menjadi juara.(n)</desc>
+  </programme>
+  <programme start="20150909123000 +0800" stop="20150909130000 +0800" channel="TV1">
+    <title lang="ms">Rentas</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Majalah</category>
+  </programme>
+  <programme start="20150909130000 +0800" stop="20150909140000 +0800" channel="TV1">
+    <title lang="ms">Nasional 1 </title>
+    <desc lang="ms">Saksikan Berita Nasional 1 yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/Nasional1-3.jpg" />
+  </programme>
+  <programme start="20150909140000 +0800" stop="20150909150000 +0800" channel="TV1">
+    <title lang="ms">Salam Baitullah (Musim Ke-6)</title>
+    <desc lang="ms">Memaparkan aktiviti jemaah Haji dan aktiviti pengurusan serta operasi Haji, selain memberi maklumat terkini keadaan di Tanah Suci kepada umat Islam di tanah air dan sekitar Asia Tenggara.(n)</desc>
+    <category lang="ms">Dokumentari</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/Nat-Geo9.jpg" />
+  </programme>
+  <programme start="20150909150000 +0800" stop="20150909160000 +0800" channel="TV1">
+    <title lang="ms">Bunga-Bunga Kemboja</title>
+    <desc lang="ms">Drama bersiri Melayu untuk tontonan anda.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909160000 +0800" stop="20150909163000 +0800" channel="TV1">
+    <title lang="ms">Pustakala</title>
+    <desc lang="ms">Rancangan menarik khas untuk kanak-kanak.(n)</desc>
+    <category lang="ms">Kanak-kanak</category>
+  </programme>
+  <programme start="20150909163000 +0800" stop="20150909170000 +0800" channel="TV1">
+    <title lang="ms">My Journey To Islam</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20150909170000 +0800" stop="20150909170500 +0800" channel="TV1">
+    <title lang="ms">BES 510 </title>
+    <desc lang="ms">Berita ringkas yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/BES5.jpg" />
+  </programme>
+  <programme start="20150909170500 +0800" stop="20150909180000 +0800" channel="TV1">
+    <title lang="ms">Nasional 5 </title>
+    <desc lang="ms">Saksikan Nasional 5 yang memaparkan perkembangan terkini, isu-isu semasa.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/berita-nasional26.jpg" />
+  </programme>
+  <programme start="20150909180000 +0800" stop="20150909183000 +0800" channel="TV1">
+    <title lang="ms">Biz Malaysia </title>
+    <desc lang="ms">Rancangan infomasi pasaran tempatan dan luar negara dengan menampilkan berita perniagaan, laporan saham terkini, komoditi, tukaran mata wang asing, fokus analisis dan profil.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/Biz-Malaysia11.jpg" />
+  </programme>
+  <programme start="20150909183000 +0800" stop="20150909190000 +0800" channel="TV1">
+    <title lang="ms">Anda Musykil?</title>
+    <desc lang="ms">Soal jawab berkaitan agama Islam bersama ustaz dan ustazah jemputan.(n)</desc>
+  </programme>
+  <programme start="20150909190000 +0800" stop="20150909190500 +0800" channel="TV1">
+    <title lang="ms">BES 510 </title>
+    <desc lang="ms">Berita ringkas yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/BES42.jpg" />
+  </programme>
+  <programme start="20150909190500 +0800" stop="20150909193000 +0800" channel="TV1">
+    <title lang="ms">Galeri Nasional</title>
+    <desc lang="ms">Kapsul maklumat semasa tentang isu-isu masyarakat dan negara di Malaysia.(n)</desc>
+    <category lang="ms">Dokumentari</category>
+  </programme>
+  <programme start="20150909193000 +0800" stop="20150909200000 +0800" channel="TV1">
+    <title lang="ms">Tanya Gomen</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+  </programme>
+  <programme start="20150909200000 +0800" stop="20150909210000 +0800" channel="TV1">
+    <title lang="ms">Nasional 8</title>
+    <desc lang="ms">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/Nasional-8-1.jpg" />
+  </programme>
+  <programme start="20150909210000 +0800" stop="20150909220000 +0800" channel="TV1">
+    <title lang="ms">Siaran Langsung : Salam Baitullah</title>
+    <desc lang="ms">Memaparkan aktiviti jemaah Haji dan aktiviti pengurusan serta operasi Haji, selain memberi maklumat terkini keadaan di Tanah Suci kepada umat Islam di tanah air dan sekitar Asia Tenggara.(n)</desc>
+  </programme>
+  <programme start="20150909220000 +0800" stop="20150909223000 +0800" channel="TV1">
+    <title lang="ms">Dunia Jam 10</title>
+    <desc lang="ms">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.(n)</desc>
+  </programme>
+  <programme start="20150909223000 +0800" stop="20150909233000 +0800" channel="TV1">
+    <title lang="ms">Siaran Langsung : Dialog</title>
+    <desc lang="ms">Sebuah bicarawara yang membincangkan mengenai isu-isu semasa dalam negara.(n)</desc>
+  </programme>
+  <programme start="20150909000000 +0800" stop="20150909020000 +0800" channel="TV2">
+    <title lang="ms">Eight Below</title>
+    <desc lang="ms">Filem Inggeris lakonan Paul Walker, Bruce Greenwood, Moon Bloodgood, Jason Biggs, Gerard Plunkett, August Schellenberg, Wendy Crewson, Belinda Metz, Connor Christopher Levins, Duncan Fraser dan ramai lagi.(n)</desc>
+    <category lang="ms">Filem</category>
+  </programme>
+  <programme start="20150909020000 +0800" stop="20150909030000 +0800" channel="TV2">
+    <title lang="ms">Jane By Design</title>
+    <desc lang="ms">Sebuah drama Inggeris lakonan Erica Dasher, Nick Roux, Rowly Dennis, David Clayton Rogers, India de Beaufort, Meagan Tandy, Matthew Atkinson, Andie MacDowell dan ramai lagi.(n)</desc>
+    <category lang="ms">Drama</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/Jane-By-Design 1.jpg" />
+  </programme>
+  <programme start="20150909030000 +0800" stop="20150909033000 +0800" channel="TV2">
+    <title lang="ms">Wonderful Malaysia</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Dokumentari</category>
+  </programme>
+  <programme start="20150909033000 +0800" stop="20150909040000 +0800" channel="TV2">
+    <title lang="ms">Harmoni.. Ka</title>
+    <desc lang="ms">Drama bersiri Tamil untuk tontonan anda.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909040000 +0800" stop="20150909050000 +0800" channel="TV2">
+    <title lang="ms">Dari Mata Arisa</title>
+    <desc lang="ms">Shireen menyerang pejabat Akif dan mendesak Akif menerimanya semula. Sebaliknya Akif menjemput Shireen ke majlis perkahwinannya nanti. Ia membuat Shireen bertambah marah dan cuba menyakitkan hati Arisa.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909050000 +0800" stop="20150909053000 +0800" channel="TV2">
+    <title lang="ms">Seuntai Tasbih</title>
+    <desc lang="ms">Akhil berhenti kerja sebagai guru fardu ain untuk melanjutkan pelajarannya. Shila bertekak dengan Jeman dan menuduh Jeman sudah berubah. Shila cuba mengubah Jeman tetapi gagal. Malah Jeman kerap memukulnya.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909053000 +0800" stop="20150909055500 +0800" channel="TV2">
+    <title lang="ms">Food Magic</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Masakan</category>
+  </programme>
+  <programme start="20150909055500 +0800" stop="20150909060000 +0800" channel="TV2">
+    <title lang="ms">Negaraku</title>
+    <desc lang="ms">Lagu Negaraku.(n)</desc>
+    <category lang="ms">Lagu Kebangsaan</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/negaraku.jpg" />
+  </programme>
+  <programme start="20150909060000 +0800" stop="20150909063000 +0800" channel="TV2">
+    <title lang="ms">Find &amp; Flavours</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Majalah</category>
+  </programme>
+  <programme start="20150909063000 +0800" stop="20150909070000 +0800" channel="TV2">
+    <title lang="ms">Breakfast &amp; Beyond</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Motivasi</category>
+  </programme>
+  <programme start="20150909070000 +0800" stop="20150909080000 +0800" channel="TV2">
+    <title lang="ms">Jangan Bunuh Matahariku</title>
+    <desc lang="ms">Suri, seorang gadis buta yang cantik bekerja di ladang Michael Days. Kemunculan Rahas membuka hati Suri, namun ia juga menimbulkan rasa cemburu pada Owen Days, anak sulung Michael Days.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909080000 +0800" stop="20150909083000 +0800" channel="TV2">
+    <title lang="ms">Rated A For Awesome</title>
+    <desc lang="ms">Rancangan menarik khas untuk kanak-kanak.(n)</desc>
+    <category lang="ms">Animasi</category>
+  </programme>
+  <programme start="20150909083000 +0800" stop="20150909090000 +0800" channel="TV2">
+    <title lang="ms">Jake &amp; The Neverland Pirates </title>
+    <desc lang="ms">Rancangan menarik khas untuk kanak-kanak.(n)</desc>
+    <category lang="ms">Animasi</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/Jake-And-The-Neverland-Pirates 2.jpg" />
+  </programme>
+  <programme start="20150909090000 +0800" stop="20150909093000 +0800" channel="TV2">
+    <title lang="ms">Mickey Mouse Club House</title>
+    <desc lang="ms">Rancangan menarik khas untuk kanak-kanak.(n)</desc>
+    <category lang="ms">Animasi</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/Mickey-Mouse-Clubhouse 2.jpg" />
+  </programme>
+  <programme start="20150909093000 +0800" stop="20150909100000 +0800" channel="TV2">
+    <title lang="ms">X- Men Evolution</title>
+    <desc lang="ms">Rancangan menarik khas untuk kanak-kanak.(n)</desc>
+    <category lang="ms">Animasi</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/X-Men!-Evolution 2.jpg" />
+  </programme>
+  <programme start="20150909100000 +0800" stop="20150909103000 +0800" channel="TV2">
+    <title lang="ms">Diva's Secret</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Majalah</category>
+  </programme>
+  <programme start="20150909103000 +0800" stop="20150909110000 +0800" channel="TV2">
+    <title lang="ms">He </title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909110000 +0800" stop="20150909120000 +0800" channel="TV2">
+    <title lang="ms">Muslihat</title>
+    <desc lang="ms">Drama bersiri Mandarin lakonan Ong Tee Chuan, Amabelle Wong, Susan Leong, Kenji Sawahii, Annabelle Kong dan ramai lagi.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909120000 +0800" stop="20150909122000 +0800" channel="TV2">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Mandarin.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/berita-mandarin5.jpg" />
+  </programme>
+  <programme start="20150909122000 +0800" stop="20150909123000 +0800" channel="TV2">
+    <title lang="ms">Galeri Nasional Mandarin</title>
+    <desc lang="ms">Kapsul maklumat semasa tentang isu-isu masyarakat di Malaysia.(n)</desc>
+    <category lang="ms">Majalah</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/galeri-nasional-mandarin4.jpg" />
+  </programme>
+  <programme start="20150909123000 +0800" stop="20150909130000 +0800" channel="TV2">
+    <title lang="ms">Berita Inggeris</title>
+    <desc lang="ms">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Inggeris.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/news-on-2-3.jpg" />
+  </programme>
+  <programme start="20150909130000 +0800" stop="20150909140000 +0800" channel="TV2">
+    <title lang="ms">Lojing Kak Ecah</title>
+    <desc lang="ms">Drama bersiri Melayu menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909140000 +0800" stop="20150909150000 +0800" channel="TV2">
+    <title lang="ms">Cinta Berkalung Duri</title>
+    <desc lang="ms">Shira yang mengidap barah hati mencari calon isteri untuk suaminya, Arman. Permintaan Shira amat berat untuk dilakukan Wani namun dia akhirnya menurut. Kepulangan Rustam mengundang konflik dalam keluarganya.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909150000 +0800" stop="20150909153000 +0800" channel="TV2">
+    <title lang="ms">Cantik</title>
+    <desc lang="ms">Memaparkan bagaimana selebriti jemputan membuat rawatan kecantikan di spa, pengambilan nutrisi daripada buah-buahan dan aktiviti riadah yang dilakukan bagi menjaga kesihatan dan kecantikan mereka.(n)</desc>
+    <category lang="ms">Majalah</category>
+  </programme>
+  <programme start="20150909153000 +0800" stop="20150909160000 +0800" channel="TV2">
+    <title lang="ms">Vanithiyar Solai</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909160000 +0800" stop="20150909163000 +0800" channel="TV2">
+    <title lang="ms">Mukiya Pramugaruddan Oru Naal</title>
+    <desc lang="ms">Rancangan menarik untuk tontonan anda.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909163000 +0800" stop="20150909163500 +0800" channel="TV2">
+    <title lang="ms">Galeri Nasional Tamil</title>
+    <desc lang="ms">Kapsul maklumat semasa tentang isu-isu masyarakat dan negara di Malaysia.(n)</desc>
+    <category lang="ms">Majalah</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/galeri-nasional-tamil82.jpg" />
+  </programme>
+  <programme start="20150909163500 +0800" stop="20150909170000 +0800" channel="TV2">
+    <title lang="ms">Uyiril Kalantha Uravu</title>
+    <desc lang="ms">Kaavya ialah kawan baik dan teman sekerja Nalini yang sering bercakap buruk tentang Vinay kepada Nalini. Suami Kaavya, Pravin mengadakan hubungan sulit dengan Abhinaya.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909170000 +0800" stop="20150909180000 +0800" channel="TV2">
+    <title lang="ms">Perplexed Love </title>
+    <desc lang="ms">Drama bersiri Mandarin untuk tontonan anda.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909180000 +0800" stop="20150909190000 +0800" channel="TV2">
+    <title lang="ms">Hui Jia De You Huo </title>
+    <desc lang="ms">Lin Pin Ru berkahwin dengan seorang lelaki daripada keluarga kaya, Shin Xian. Sepanjang perkahwinan mereka, Pin Ru mendapat layanan buruk oleh ibu bapa mertuanya kerana dia berasal daripada keluarga miskin.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
+  <programme start="20150909190000 +0800" stop="20150909193000 +0800" channel="TV2">
+    <title lang="ms">Stitch </title>
+    <desc lang="ms">Rancangan menarik khas untuk kanak-kanak.(n)</desc>
+    <category lang="ms">Kanak-kanak</category>
+  </programme>
+  <programme start="20150909193000 +0800" stop="20150909200000 +0800" channel="TV2">
+    <title lang="ms">Berita Tamil</title>
+    <desc lang="ms">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Tamil.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/berita_tamil2.jpg" />
+  </programme>
+  <programme start="20150909200000 +0800" stop="20150909203000 +0800" channel="TV2">
+    <title lang="ms">Berita Mandarin</title>
+    <desc lang="ms">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Mandarin.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/berita-mandrin1.jpg" />
+  </programme>
+  <programme start="20150909203000 +0800" stop="20150909210000 +0800" channel="TV2">
+    <title lang="ms">Berita Inggeris</title>
+    <desc lang="ms">Berita yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara dalam bahasa Inggeris.(n)</desc>
+    <category lang="ms">Berita</category>
+    <icon src="http://live.rtm.gov.my/epg/upload/news-on-2-4.jpg" />
+  </programme>
+  <programme start="20150909210000 +0800" stop="20150909220000 +0800" channel="TV2">
+    <title lang="ms">Street Vendetta</title>
+    <desc lang="ms">Anabella seorang gadis boros dan suka berhutang. Disebabkan hutangnya, Anabella gagal menjelaskan bayaran keretanya menyebabkan dia diburu pihak bank. Kojie ditugaskan untuk menarik kereta Anabella.(n)</desc>
+    <category lang="ms">Drama</category>
+  </programme>
   <programme start="20150909001500 +0000" stop="20150909004500 +0000" channel="8TV">
     <title lang="en">Blackish</title>
     <desc lang="en">Coloured Commentary – Dre wants the family to feel more connected so he encourages “Team Johnson” to embrace what it means to have each other’s backs. But Dre creates trouble for himself when he falls short of Bow’s expectations. Meanwhile, Bow and Dre invoke “Team Johnson” and put the less-than-enthusiastic Zoey and Andre Jr. in charge of babysitting the twins.(n)</desc>
@@ -420,77 +848,9 @@ However, he still remained kind and finally successfully developed Mafeisan—th
     <title lang="en">Bernama News (Rpt Tx 20:00)</title>
     <desc lang="en">Bernama News (Rpt Tx 20:00).(n)</desc>
   </programme>
-  <channel id="TV1">
-    <display-name lang="en">TV1</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="TV2">
-    <display-name lang="en">TV2</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="TV3">
-    <display-name lang="en">TV3</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="NTV7">
-    <display-name lang="en">NTV7</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="8TV">
-    <display-name lang="en">8TV</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="TV9">
-    <display-name lang="en">TV9</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="Al Hijrah">
-    <display-name lang="en">Al Hijrah</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="Bernama TV">
-    <display-name lang="en">Bernama TV</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="Astro Oasis">
-    <display-name lang="en">Astro Oasis</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="Astro Awani">
-    <display-name lang="en">Astro Awani</display-name>
-    <url>http://www.www.tm.com.my</url>
-  </channel>
-  <channel id="Channel 5">
-    <display-name lang="en">Channel 5</display-name>
-    <url>http://www.toggle.sg</url>
-  </channel>
-  <channel id="Channel 8">
-    <display-name lang="en">Channel 8</display-name>
-    <url>http://www.toggle.sg</url>
-  </channel>
-  <channel id="Channel U">
-    <display-name lang="en">Channel U</display-name>
-    <url>http://www.toggle.sg</url>
-  </channel>
-  <channel id="okto">
-    <display-name lang="en">okto</display-name>
-    <url>http://www.toggle.sg</url>
-  </channel>
-  <channel id="Vasantham">
-    <display-name lang="en">Vasantham</display-name>
-    <url>http://www.toggle.sg</url>
-  </channel>
-  <channel id="Suria">
-    <display-name lang="en">Suria</display-name>
-    <url>http://www.toggle.sg</url>
-  </channel>
-  <channel id="Channel NewsAsia">
-    <display-name lang="en">Channel NewsAsia</display-name>
-    <url>http://www.toggle.sg</url>
-  </channel>
   <programme start="20150909230000 +0800" stop="20150909233000 +0800" channel="Vasantham">
     <title lang="en">KA</title>
-    <desc lang="en">5 couples. Different walks of life. Different ideologies. Yet with the same purpose - LOVE. In the process of seeking, salvaging and securing their LOVE, we see the 5 couples go through the biggest tests in their lives. Sit back and say a little pray.</desc>
+    <desc lang="en">5 couples. Different walks of life. Different ideologies. Yet with the same purpose - LOVE. In the process of seeking, salvaging and securing their LOVE, we see the 5 couples go through the biggest tests in their lives. Sit back and say a little pray.(n)</desc>
   </programme>
   <programme start="20150909230000 +0800" stop="20150909233000 +0800" channel="Suria">
     <title lang="en">Liputan Pilihan Raya 2015 (HD)</title>
