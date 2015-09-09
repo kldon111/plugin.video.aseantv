@@ -3,10 +3,10 @@
 #EXTINF:-1, [COLOR white] = MALAYSIA CHANNELS = [/COLOR] 
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png" group-title="MALAYSIA",TV1
-http://d2n93xl5jpu7ax.cloudfront.net:80/live/mp4:rtm-ch001_international.stream_360p/playlist.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442372680&myTokenPrefixhash=Yw0lWZxbeYG1AUCiIh0nCeb_TkFVyV9L3VE7QWJ9SkM=
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png" group-title="MALAYSIA",TV2
-http://d2n93xl5jpu7ax.cloudfront.net:80/live/mp4:rtm-ch003_international.stream_360p/playlist.m3u8
+http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373088&myTokenPrefixhash=Qw5ICPXwhqxgoqiFo_0piBFDL9TugqnF9p99cgB3DEA=
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png" group-title="MALAYSIA",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
