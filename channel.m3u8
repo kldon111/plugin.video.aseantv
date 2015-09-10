@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-0, [COLOR saddlebrown][B]<::: MALAYSIA :::>[/B][/COLOR]
+#EXTINF:-0, [COLOR saddlebrown][B]MALAYSIA CHANNELS[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png" group-title="MALAYSIA",TV1
@@ -45,7 +45,7 @@ rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_bernamatv_zpswz7nlgor.png" group-title="MALAYSIA",BERNAMA TV
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
-#EXTINF:-0, [COLOR saddlebrown][B]<::: SINGAPORE :::>[/B][/COLOR]
+#EXTINF:-0, [COLOR saddlebrown][B]SINGAPORE CHANNELS[/B][/COLOR]
 http://www.youtube.com
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png" group-title="SINGAPORE",SURIA
@@ -68,3 +68,9 @@ http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png" group-title="SINGAPORE",VASANTHAM
 http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8
+
+#EXTINF:-0, [COLOR saddlebrown][B]BRUNEI CHANNELS[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtb4_zps4qu7d2hi.png" group-title="BRUNEI",RTB4
+mms://202.160.15.85/stream-03-512
