@@ -39,6 +39,9 @@ http://www.layarku.tv/media/oasisv6.m3u8
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_ceria_zpshfq6s9fy.png" group-title="MALAYSIA",ASTRO CERIA
 http://www.layarku.tv/media/ceria.m3u8
 
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_arena_zpsyciworbm.png" group-title="MALAYSIA",ASTRO ARENA
+http://www.layarku.tv/media/arenav6.m3u8
+
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png" group-title="MALAYSIA",ASTRO AWANI
 rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937
 
