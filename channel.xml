@@ -1,22 +1,22 @@
 <channels>
 
-<info>Some of the channels are currently offline. If you know alternative links for these channels please email me so we can add them or replace non working links. Thanks!</info>
+<info>Some of the channels are currently offline. If you know alternative links for these channels please email me at indiecrewteam [at] gmail.com so we can add them or replace non working links. Thanks!</info>
 
 <channel>
-<name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR]</name>
+<name>[COLOR=FF00FF00]MALAYSIA CHANNELS[/COLOR] [COLOR=FFFF0000]UPDATED on SEPT 2015[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Malaysia-Flag-icon_zpsogib7mlv.png</thumbnail>
 <fanart></fanart>
 
 <items>
 <item>
 <title>TV1</title>
-<link>http://d2n93xl5jpu7ax.cloudfront.net:80/live/mp4:rtm-ch001_international.stream_360p/playlist.m3u8</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://d2n93xl5jpu7ax.cloudfront.net/live/ngrp:rtm-ch003.stream_all/playlist.m3u8</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
@@ -102,7 +102,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]SINGAPORE CHANNELS[/COLOR]</name>
+<name>[COLOR=FFFFFF00]SINGAPORE CHANNELS[/COLOR] [COLOR=FFFF0000]UPDATED on SEPT 2015[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Singapore-Flag-icon_zpspghbtr5n.png</thumbnail>
 <fanart></fanart>
 
@@ -145,7 +145,7 @@
 
 <item>
 <title>VASANTHAM</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png</thumbnail>
 </item>
 </items>
