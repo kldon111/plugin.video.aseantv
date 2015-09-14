@@ -77,3 +77,159 @@ http://www.youtube.com
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/BR_rtb4_zps4qu7d2hi.png" group-title="BRUNEI",RTB4
 mms://202.160.15.85/stream-03-512
+
+#EXTINF:-0, [COLOR saddlebrown][B]INDONESIA CHANNELS[/B][/COLOR]
+http://www.youtube.com
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antaratv_zpslfe8wvho.png" group-title="INDONESIA",ANTARA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_antv_zps5qe3o8qy.png" group-title="INDONESIA",ANTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",ASWAJA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/aswajatv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",BERITA SATU
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/beritasatu_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",CAHAYA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/cahayatv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",CAHAYA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/cahayatv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",CHINA MOVIE
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",DAAI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/daaitv2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",DAMAI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/more1_240p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",DMC TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/dmctv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",ELSHINTA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/elshintatv_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",FRANCE24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",GLOBAL TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/globaltv2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",HAARI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/more2_240p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",HOT HITS
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/hothits_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",IFILM
+http://ptv-hls.streaming.overon.es/ch06/livehigh.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",INDOSIAR
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",JAK TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/jaktv_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",JTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/jawatv_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",KOMPAS TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",LBS IN-DRAMA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",LBS K-DRAMA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_240p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",MEDIBIZ TV
+http://live.wmncdn.net/medibiztv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",METRO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/metrotv2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",MIVO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",MNC TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mnctv2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",NABAWI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nabawitv_192p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",NET.
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nettv_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",NHK WORLD
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nhkworld_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",OCHANNEL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/ochannel_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",PHOENIX TV
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",PRESS TV
+http://ptv-hls.streaming.overon.es/ch03/livehigh.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",RCTI
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",RTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rajawalitv.stream_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",SCTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",SHANDONG TV
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/sdtvhd/as/live/sdtvhd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",SHENZHEN TV
+http://ktv003.cdnak.ds.kylintv.net/nlds/kylin/sztvhd/as/live/sztvhd_4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",SPACETOON
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",SPACETOON 2
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon2_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",THE INDONESIA CH
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/theindonesiachannel_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TIANJIN TV
+http://ktv041.cdnak.ds.kylintv.net/nlds/kylin/tjtvhd/as/live/tjtvhd_4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TRANS7
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TRANSTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TV EDUKASI
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TVONE
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvone2_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TVRI BUDAYA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvribudaya_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TVRI JAKARTA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrijakarta_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TVRI NASIONAL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrinasional_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",TVRI OLAHRAGA
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvriolahraga_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",U CHANNEL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/uchannel_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA",ZHEJIANG TV
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/zhejtvhd/as/live/zhejtvhd_4.m3u8
