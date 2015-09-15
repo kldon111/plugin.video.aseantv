@@ -153,7 +153,7 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR]</name>
+<name>[COLOR=FFFFFF00]INDONESIA CHANNELS[/COLOR] [COLOR=FFFF0000]UPDATED on SEPT 2015[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Indonesia-Flag-icon_zpshbblwt86.png</thumbnail>
 <fanart></fanart>
 
@@ -460,31 +460,31 @@
 
 <item>
 <title>TV9</title>
-<link></link>
+<link>rtmp://119.235.249.60/tv9/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tv9_zpslribghvy.png</thumbnail>
 </item>
 
 <item>
 <title>INEWS TV</title>
-<link></link>
+<link>http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_inewstv_zpsmmfpmcpo.png</thumbnail>
 </item>
 
 <item>
 <title>INSAN TV</title>
-<link></link>
+<link>rtmp://insantv.com/live/insantv_360p</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_insantv_zpsjsisshrg.png</thumbnail>
 </item>
 
 <item>
 <title>SALWA TV</title>
-<link></link>
+<link>rtmp://119.235.249.60:1935/salamdakwah/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_salwatv_zpsdoltiael.png</thumbnail>
 </item>
 
 <item>
 <title>WESAL TV</title>
-<link></link>
+<link>rtmp://119.235.249.60:1935/wesaltv/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_wesaltv_zpspg85d8ho.png</thumbnail>
 </item>
 </items>
