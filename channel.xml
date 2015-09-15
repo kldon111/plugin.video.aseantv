@@ -364,19 +364,19 @@
 
 <item>
 <title>AHSAN TV</title>
-<link>http://202.182.56.21:1935/live/ahsantv/playlist.m3u8</link>
+<link>rtmp://202.182.56.21/live/ahsantv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ahsantv_zpspofotaos.png</thumbnail>
 </item>
 
 <item>
 <title>SURAU TV</title>
-<link></link>
+<link>http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_surautv_zpsers5c5sj.png</thumbnail>
 </item>
 
 <item>
 <title>RODJA TV</title>
-<link></link>
+<link>rtmp://vids.rodja.tv:1935/live/rodja</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_rodjatv_zpsut2hukng.png</thumbnail>
 </item>
 
@@ -388,7 +388,7 @@
 
 <item>
 <title>TAHFIDZ TV</title>
-<link></link>
+<link>rtmp://119.235.249.58:1935/tahfidztv/live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tahfidztv_zpsgmpqbobz.png</thumbnail>
 </item>
 
@@ -406,13 +406,13 @@
 
 <item>
 <title>HANG TV</title>
-<link>http://128.199.96.198:1935/live/hangtv/playlist.m3u8</link>
+<link>rtmp://128.199.96.198:1935/live/hangtv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_hangtv_zpsqnqygugs.png</thumbnail>
 </item>
 
 <item>
 <title>DAQU TV</title>
-<link></link>
+<link>rtmp://stream.pencerahan.tv/live/daqutv</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_daqutv_zpsuhpgvv2w.png</thumbnail>
 </item>
 
@@ -424,7 +424,7 @@
 
 <item>
 <title>UMMAT TV</title>
-<link></link>
+<link>http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_ummattv_zpszgq72y8w.png</thumbnail>
 </item>
 
