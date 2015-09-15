@@ -160,25 +160,25 @@
 <items>
 <item>
 <title>TVRI 1</title>
-<link>rtmp://118.97.50.102/digital app=live?ovpfv=1.1 conn=Z: playpath=nasional swfUrl=http://tvri.co.id/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://tvri.co.id/home</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrinasional_zpsrpwt3w2f.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 2</title>
-<link>rtmp://118.97.50.102/digital app=live?ovpfv=1.1 conn=Z: playpath=jakarta swfUrl=http://tvri.co.id/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://tvri.co.id/home</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvrijakarta_zps9idoi7ph.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 3</title>
-<link>rtmp://118.97.50.102/digital app=live?ovpfv=1.1 conn=Z: playpath=budaya swfUrl=http://tvri.co.id/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://tvri.co.id/home</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvribudaya_zps2xarzbez.png</thumbnail>
 </item>
 
 <item>
 <title>TVRI 4</title>
-<link>rtmp://118.97.50.102/digital app=live?ovpfv=1.1 conn=Z: playpath=olahraga swfUrl=http://tvri.co.id/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://tvri.co.id/home</link>
+<link></link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/ID_tvriolahraga_zpsrrux4aqc.png</thumbnail>
 </item>
 
