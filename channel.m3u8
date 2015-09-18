@@ -42,18 +42,6 @@ http://www.layarku.tv/media/ceria.m3u8
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_arena_zpsyciworbm.png" group-title="MALAYSIA",ASTRO ARENA
 http://www.layarku.tv/media/arenav6.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",ASTRO SUPERSPORT 1
-http://iptvchoice.zapto.org:8000/live/savas1/savas1/1203.ts
-
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",ASTRO SUPERSPORT 2
-http://iptvchoice.zapto.org:8000/live/savas1/savas1/1204.ts
-
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",ASTRO SUPERSPORT 3
-http://iptvchoice.zapto.org:8000/live/savas1/savas1/1205.ts
-
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA",ASTRO SUPERSPORT 4
-http://iptvchoice.zapto.org:8000/live/savas1/savas1/2636.ts
-
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_awani_zpsssci0ox7.png" group-title="MALAYSIA",ASTRO AWANI
 rtmp://cp160334.live.edgefcs.net:1935/live?ovpfv=1.1/AstroAwani24x7_3@74937
 
@@ -64,25 +52,25 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 http://www.youtube.com
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png" group-title="SINGAPORE",SURIA
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel5_zpslpt6pjmb.png" group-title="SINGAPORE",CHANNEL 5
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch51.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png" group-title="SINGAPORE",CHANNEL 8
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch81.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png" group-title="SINGAPORE",OKTO
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channelu_zpshu6beqce.png" group-title="SINGAPORE",CHANNEL U
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_newsasia_zpsfuehs6hf.png" group-title="SINGAPORE",NEWSASIA
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png" group-title="SINGAPORE",VASANTHAM
-http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8
+http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham1.smil/playlist.m3u8
 
 #EXTINF:-0, [COLOR saddlebrown][B]BRUNEI CHANNELS[/B][/COLOR]
 http://www.youtube.com
