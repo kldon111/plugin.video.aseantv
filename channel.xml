@@ -102,50 +102,50 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]SINGAPORE CHANNELS[/COLOR] [COLOR=FF00FF00](Offline)[/COLOR]</name>
+<name>[COLOR=FFFFFF00]SINGAPORE CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Singapore-Flag-icon_zpspghbtr5n.png</thumbnail>
 <fanart></fanart>
 
 <items>
 <item>
 <title>CHANNEL 5</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch51.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel5_zpslpt6pjmb.png</thumbnail>
 </item>
 
 <item>
 <title>CHANNEL 8</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch81.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channel8_zpsv6hcf98c.png</thumbnail>
 </item>
 
 <item>
 <title>CHANNEL U</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu1.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_channelu_zpshu6beqce.png</thumbnail>
 </item>
 
 <item>
 <title>NEWSASIA</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna1.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_newsasia_zpsfuehs6hf.png</thumbnail>
 </item>
 
 <item>
 <title>OKTO</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto1.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_okto_zpsmpvovqan.png</thumbnail>
 </item>
 
 <item>
 <title>SURIA</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria1.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_suria_zpsipi9s6ls.png</thumbnail>
 </item>
 
 <item>
 <title>VASANTHAM</title>
-<link></link>
+<link>http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham1.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/SG_vasantham_zpslvh8vfyj.png</thumbnail>
 </item>
 </items>
@@ -1250,50 +1250,50 @@
 </channel>
 
 <channel>
-<name>[COLOR=FFFFFF00]MYANMAR CHANNELS[/COLOR] [COLOR=FF00FF00](Offline)[/COLOR]</name>
+<name>[COLOR=FFFFFF00]MYANMAR CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Myanmar-Flag-icon_zpstj2dtxi4.png</thumbnail>
 <fanart></fanart>
 
 <items>
 <item>
 <title>CHANNEL 7</title>
-<link></link>
+<link>rtsp://50.7.230.90:1935/liveedge/channel2</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_channel7_zpsqnraprlf.png</thumbnail>
 </item>
 
 <item>
 <title>HLUT TAW TV</title>
-<link></link>
+<link>rtmp://203.81.81.230/live/HTT&streamType=live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_hluttawtv_zpsart2zwjg.png</thumbnail>
 </item>
 
 <item>
 <title>MAHAR BAWDI TV</title>
-<link></link>
+<link>rtmp://50.7.230.90:1935/liveedge/channel3&streamType=live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_maharbawditv_zpstmcmjvpd.png</thumbnail>
 </item>
 
 <item>
 <title>MITV</title>
-<link></link>
+<link>rtmp://203.81.81.230/live/mitv&streamType=live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mitv_zps4xrjw2p0.png</thumbnail>
 </item>
 
 <item>
 <title>MNTV</title>
-<link></link>
+<link>rtsp://212-133.livestream.com:8080/livestreamiphone/7228455_3875913_32ca89ab_1_446@304368</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mntv_zpsj9mwi3mk.png</thumbnail>
 </item>
 
 <item>
 <title>MRTV-4</title>
-<link></link>
+<link>rtmp://50.7.157.18:1935/liveedge/channel1&streamType=live</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mrtv4_zpsshgdzr2r.png</thumbnail>
 </item>
 
 <item>
 <title>UP TO DATE TV</title>
-<link></link>
+<link>rtsp://212-133.livestream.com:8080/livestreamiphone/7228455_3875178_a6a1754e_1_446@304368</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_uptodatetv_zpsyn9eshgw.png</thumbnail>
 </item>
 </items>
