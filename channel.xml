@@ -1,7 +1,5 @@
 <channels>
 
-<info>Some of the channels are currently offline. If you know alternative links for these channels please email me at indiecrewteam [at] gmail.com so we can add them or replace non working links. Thanks!</info>
-
 <channel>
 <name>[COLOR=FFFFFF00]MALAYSIA CHANNELS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/Malaysia-Flag-icon_zpsogib7mlv.png</thumbnail>
@@ -1343,6 +1341,17 @@
 </item>
 </items>
 
+</channel>
+
+<channel>
+<items>
+<item>
+<title>[COLOR=FF00FF00]MR NETWORK NEWS[/COLOR]</title>
+<link></link>
+<info>Some of the channels are currently offline. If you know alternative links for these channels please email me at indiecrewteam [at] gmail.com so we can add them or replace non working links. Thanks!</info>
+<thumbnail></thumbnail>
+</item>
+</items>
 </channel>
 
 </channels>
