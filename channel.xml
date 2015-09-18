@@ -1267,7 +1267,7 @@
 
 <item>
 <title>MAHAR BAWDI TV</title>
-<link>rtmp://50.7.230.90:1935/liveedge/channel3&streamType=live</link>
+<link>rtsp://50.7.157.18:1935/liveedge/channel3</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_maharbawditv_zpstmcmjvpd.png</thumbnail>
 </item>
 
@@ -1285,13 +1285,13 @@
 
 <item>
 <title>MRTV-4</title>
-<link>rtmp://50.7.157.18:1935/liveedge/channel1&streamType=live</link>
+<link>rtsp://50.7.230.90:1935/liveedge/channel1</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_mrtv4_zpsshgdzr2r.png</thumbnail>
 </item>
 
 <item>
 <title>UP TO DATE TV</title>
-<link>rtsp://212-133.livestream.com:8080/livestreamiphone/7228455_3875178_a6a1754e_1_446@304368</link>
+<link>rtsp://212-123.livestream.com:8080/livestreamiphone/7228455_3875178_ddb7e365_1_446@304368</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MR_uptodatetv_zpsyn9eshgw.png</thumbnail>
 </item>
 </items>
