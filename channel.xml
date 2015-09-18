@@ -1345,11 +1345,17 @@
 
 <channel>
 <name>[COLOR=FFFFFF00]MR NETWORK NEWS[/COLOR]</name>
-<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MRNetwork_zpsgurgzcaq.png</thumbnail>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MRNetwork_zps6kime1cu.png</thumbnail>
 <fanart></fanart>
 <items>
 <item>
-<title>[COLOR=FF00FF00]Disclaimer:[/COLOR] Some of the channels are currently offline. If you know alternative links for these channels please email me at indiecrewteam [at] gmail.com so we can add them or replace non working links. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. Thanks!</title>
+<title>[COLOR=FF00FF00]Disclaimer:[/COLOR] Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=FF00FF00]Info:[/COLOR] Some of the channels are currently offline. If you know alternative links for these channels please email us so we can add them or replace non working links. Thanks!</title>
 <link>http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
