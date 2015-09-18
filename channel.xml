@@ -1344,10 +1344,17 @@
 </channel>
 
 <channel>
-<name>[COLOR=FF00FF00]MR NETWORK NEWS[/COLOR]</name>
+<name>[COLOR=FFFFFF00]MR NETWORK NEWS[/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<items>
+<item>
+<title>[COLOR=FF00FF00]Disclaimer:[/COLOR]</title>
+<link></link>
 <info>Some of the channels are currently offline. If you know alternative links for these channels please email me at indiecrewteam [at] gmail.com so we can add them or replace non working links. Thanks!</info>
+<thumbnail></thumbnail>
+</item>
+</items>
 </channel>
 
 </channels>
