@@ -8,13 +8,13 @@
 <items>
 <item>
 <title>TV1</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442372680&myTokenPrefixhash=Yw0lWZxbeYG1AUCiIh0nCeb_TkFVyV9L3VE7QWJ9SkM=</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001_international.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1443290258&myTokenPrefixhash=MhnPGzWWuiCyVMZ_wYoD2lfQyoIfz0LaRRo-rlHI6VA=</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1442373088&myTokenPrefixhash=Qw5ICPXwhqxgoqiFo_0piBFDL9TugqnF9p99cgB3DEA=</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002_international.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1443290572&myTokenPrefixhash=UGVXLxaO5PpU174RoRr__dkW6Bg_A34vhVI-RJV9e2E=</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
