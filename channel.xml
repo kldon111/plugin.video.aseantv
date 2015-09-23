@@ -826,6 +826,12 @@
 </item>
 
 <item>
+<title>THAI MUSLIM TV</title>
+<link>http://radio2.thaidhost.com:8888/muslimonair2/live/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>TGN</title>
 <link>http://61.91.12.34:1935/live/smil:tgnadaptive.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/TH_tgn_zpssary4zc2.png</thumbnail>
@@ -1171,7 +1177,7 @@
 
 <item>
 <title>CLTV 36</title>
-<link>http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8</link>
+<link>http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/manifest.f4m</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/PH_cltv36_zps9cibryhs.png</thumbnail>
 </item>
 
