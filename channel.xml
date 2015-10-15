@@ -14,13 +14,19 @@
 
 <item>
 <title>TV2</title>
-<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002_international.smil/chunklist_w661795704_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTg3ODEmbXlUb2tlblByZWZpeGhhc2g9dVdNcWFKMGl6ckh1bmxUV3p2RHptVVZIX3RLazhnUlVmWTRzekVaREtSQT0=.m3u8</link>
+<link>http://streamer1.aws.stream.my/live/ngrp:rtm-ch002.stream_all/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
 <item>
 <title>TV3</title>
 <link>http://www.layarku.tv/media/tmp2tv3.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
+</item>
+
+<item>
+<title>TV3 [COLOR=FFFF0000](Geo-restricted)[/COLOR]</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv3_zpsccy0afit.png</thumbnail>
 </item>
 
