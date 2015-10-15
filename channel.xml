@@ -8,13 +8,13 @@
 <items>
 <item>
 <title>TV1</title>
-<link>http://streamer1.aws.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch001_international.smil/chunklist_w408136853_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTc5NDMmbXlUb2tlblByZWZpeGhhc2g9WkprT3VYdEZKdnhmZEp4YVJCY0VKQ25CUXFJYzBJendjcll3SzZrYWRYND0=.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_tv1_zps8mlj4nck.png</thumbnail>
 </item>
 
 <item>
 <title>TV2</title>
-<link>http://streamer1.aws.stream.my/live/ngrp:rtm-ch002.stream_all/playlist.m3u8</link>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch002_international.smil/chunklist_w661795704_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTg3ODEmbXlUb2tlblByZWZpeGhhc2g9dVdNcWFKMGl6ckh1bmxUV3p2RHptVVZIX3RLazhnUlVmWTRzekVaREtSQT0=.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/My_tv2_zpshzwufzrv.png</thumbnail>
 </item>
 
@@ -46,6 +46,42 @@
 <title>AL-HIJRAH</title>
 <link>http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:myStream.smil/playlist.m3u8</link>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/MY_alhijrah_zps7om1g57e.png</thumbnail>
+</item>
+
+<item>
+<title>TVI</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/chunklist_w776925396_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTgwNjQmbXlUb2tlblByZWZpeGhhc2g9YzBrNWt1cDFWV3hpZE5vcXNkMzZaSkhuTTEtX2x4eVFpbjQxOWItc3lOcz0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/tvi_zpsmwdrm674.png</thumbnail>
+</item>
+
+<item>
+<title>MUZIK AKTIF</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/chunklist_w357181968_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTg2OTQmbXlUb2tlblByZWZpeGhhc2g9VUdzVUtuLVFQd2psTkkxNkJLOWhJZzlSdTFtdndjXzhrQmc2bHNFTllrQT0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/muzikaktif_zpswj4untkz.png</thumbnail>
+</item>
+
+<item>
+<title>1 NEWS</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/chunklist_w1653343530_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTgzNDImbXlUb2tlblByZWZpeGhhc2g9bFcyeE44eTNFc2drY3BrWHgyekd1OWdxdWs4LVpGZVVsT3pPWXZGV3piUT0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/1news_zpsdlajzziq.png</thumbnail>
+</item>
+
+<item>
+<title>RTM PARLIMEN</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch007.smil/chunklist_w1471769255_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTg2MDMmbXlUb2tlblByZWZpeGhhc2g9RE5aQ0tHN1NsR1lUMGU2QjZfTHhYUmZ4d2Foc1ZsY2xPVHd4N3dUTWlJcz0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png</thumbnail>
+</item>
+
+<item>
+<title>AKSI SUKAN</title>
+<link>http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch008.smil/chunklist_w174344981_b564000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDU1MTg3NDImbXlUb2tlblByZWZpeGhhc2g9MjVkS1RVRWFXd0x6cXZBbjQzUnE1VEY0bUpqTkhBb2xUYzV4U1daX3duND0=.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/aksisukan_zpsynthgfvn.png</thumbnail>
+</item>
+
+<item>
+<title>MARA TV</title>
+<link>http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8</link>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/maratv_zpsees3ljuu.png</thumbnail>
 </item>
 
 <item>
