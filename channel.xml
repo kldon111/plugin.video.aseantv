@@ -1398,25 +1398,38 @@
 </channel>
 
 <channel>
+<name>MR NETWORK TV</name>
+<thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Mobile%20Uploads/icon_zps58mh6jct.png</thumbnail>
+<fanart></fanart>
+<items>
+<item>
+<title></title>
+<link>.</link>
+<thumbnail></thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
 <name>[COLOR=FFFFFF00]MR NETWORK NEWS[/COLOR]</name>
 <thumbnail>http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/News_zpsirkmp08c.png</thumbnail>
 <fanart></fanart>
 <items>
 <item>
-<title>[COLOR=FF00FF00]Disclaimer:[/COLOR] Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</title>
-<link>http://www.youtube.com</link>
+<title>Our latest free project, MR Network TV Add-on. Can be download at our official Telegram channel..(https://telegram.me/malayrevolutionnetwork)</title>
+<link>.</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FF00FF00]Info:[/COLOR] Some of the channels are currently offline. If you know alternative links for these channels please email us so we can add them or replace non working links. Thanks!</title>
-<link>http://www.youtube.com</link>
+<link>.</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>[COLOR=FF00FF00]Paypal Donations:[/COLOR] indiecrewteam [at] gmail.com</title>
-<link>http://www.youtube.com</link>
+<link>.</link>
 <thumbnail></thumbnail>
 </item>
 </items>
